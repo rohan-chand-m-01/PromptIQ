@@ -1,4 +1,6 @@
-# AI Credit Cost Analyzer
+<p align="center">
+  <img src="banner.svg" alt="PromptIQ Banner" width="800" />
+</p>
 
 An elegant enterprise grade Java Swing desktop application designed to analyze prompts for token usage, complexity, cost classification, and optimized recommendations. Powered by the Google Gemini API for intelligent prompt rewriting and the Telegram Bot API for instant notifications.
 
@@ -160,6 +162,15 @@ AICreditCostAnalyzer
  ├── schema.sql (Database script)
  └── sources.txt (List of source files)
 ```
+
+***
+
+## Contributors
+
+* **Rohan**
+* **Venkatesh**
+
+This application was engineered by Rohan and Venkatesh as a top 1% grade project.
 
 ***
 
