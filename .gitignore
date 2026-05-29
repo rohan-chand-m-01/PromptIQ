@@ -1,0 +1,57 @@
+# ==========================================
+# Credentials and Environment Configurations
+# ==========================================
+# Exclude files containing actual passwords, tokens, and private API keys
+config.properties
+.env
+.env.local
+*.local
+*.env
+
+# ==========================================
+# Java Compilation & Build Artifacts
+# ==========================================
+# Ignore compiled Java class files and output directories
+*.class
+out/
+bin/
+target/
+build/
+*.jar
+*.war
+*.ear
+
+# ==========================================
+# IDE and Editor Metadata
+# ==========================================
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+*.launch
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+
+# Visual Studio Code
+.vscode/
+
+# BlueJ
+*.ctxt
+
+# ==========================================
+# System and Log Files
+# ==========================================
+*.log
+Thumbs.db
+.DS_Store
